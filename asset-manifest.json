@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/iqdev_gainetdinov/static/css/main.5831c932.css",
-    "main.js": "/iqdev_gainetdinov/static/js/main.2e43936d.js",
+    "main.js": "/iqdev_gainetdinov/static/js/main.2cde805c.js",
     "index.html": "/iqdev_gainetdinov/index.html",
     "main.5831c932.css.map": "/iqdev_gainetdinov/static/css/main.5831c932.css.map",
-    "main.2e43936d.js.map": "/iqdev_gainetdinov/static/js/main.2e43936d.js.map"
+    "main.2cde805c.js.map": "/iqdev_gainetdinov/static/js/main.2cde805c.js.map"
   },
   "entrypoints": [
     "static/css/main.5831c932.css",
-    "static/js/main.2e43936d.js"
+    "static/js/main.2cde805c.js"
   ]
 }
